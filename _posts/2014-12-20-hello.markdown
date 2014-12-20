@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "A New Beginning"
-subtitle:   "First post of my one a challenge a month blog."
+title:      "And so it begins..."
+subtitle:   "My theory on maximizing ambitions while still retaining my sanity."
 date:       2014-12-20 14:16:00
 author:     "Jonathan Stanton"
 header-img: "img/post-bg-01.jpg"
