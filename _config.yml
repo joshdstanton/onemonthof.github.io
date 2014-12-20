@@ -1,0 +1,15 @@
+# Site settings
+title: One Month Of
+email: contact@onemonthof.com
+description: "One Month Of, a blog about my one month adventures."
+baseurl: ""
+url: "http://onemonthof.com"
+twitter_username: onemonthof
+github_username:  onemonthof
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
