@@ -24,6 +24,12 @@ imagined. <strong>My solution is not to stop thinking big or to take on fewer
 challenges but instead commit to challenges with an end date in mind and a
 challenge that I can measure the success of.</strong>
 
+<blockquote>
+  <a href="{{ site.baseurl }}/img/calvin-hobbes-stars.jpg">
+    <img src="{{ site.baseurl }}/img/calvin-hobbes-stars.jpg" alt="Calvin And Hobbes Stars">
+  </a>
+</blockquote>
+
 <p><i>Caveat for the skeptics:</i> This is not to say that all things in life should
 have an out in mind. There are times in life where doing something without an
 expected end date or looking for ways to constantly measure success is a good
