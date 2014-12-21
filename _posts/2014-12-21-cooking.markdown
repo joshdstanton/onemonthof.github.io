@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Cooking"
-subtitle:   "From Mac N' Cheese To Cheese Steak"
+subtitle:   "From Mac N' Cheese To Cheese Cake"
 date:       2014-12-21 00:16:00
 author:     "Jonathan Stanton"
 header-img: "img/cooking-bg-01.jpg"
