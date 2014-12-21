@@ -5,8 +5,8 @@
     <description>One Month Of, a blog about my one month adventures.</description>
     <link>http://onemonthof.com/</link>
     <atom:link href="http://onemonthof.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 20 Dec 2014 16:55:33 -0800</pubDate>
-    <lastBuildDate>Sat, 20 Dec 2014 16:55:33 -0800</lastBuildDate>
+    <pubDate>Sat, 20 Dec 2014 16:56:38 -0800</pubDate>
+    <lastBuildDate>Sat, 20 Dec 2014 16:56:38 -0800</lastBuildDate>
     <generator>Jekyll v2.0.3</generator>
     
       <item>
@@ -27,7 +27,7 @@ imagined. &lt;strong&gt;My solution isn&#39;t to stop thinking big or to take on
 challenges but instead to commit to challenges of any size with an end date date
 in mind and one that I can measure the success of the challenge.&lt;/strong&gt;
 
-&lt;p&gt;Caveat for the skeptics: This is not to say that all things in life should
+&lt;p&gt;&lt;i&gt;Caveat for the skeptics:&lt;/i&gt; This is not to say that all things in life should
 have an out in mind. There are times in life where doing something without an
 expected end date or looking for ways to constantly measure success is a good
 thing. And if the challenge in mind doesn&#39;t fit this mold it doesn&#39;t mean it&#39;s
@@ -43,7 +43,8 @@ was a decision I made with no end to sight and I&#39;m happy with that decision.
 
 &lt;hr /&gt;
 
-&lt;p&gt;Example: I wanted to cook for my wife more often to give her a break and also
+&lt;h1&gt;Example&lt;/h1&gt;
+&lt;p&gt;I wanted to cook for my wife more often to give her a break and also
 because I thought my &quot;culinary skills&quot; could grow beyond &lt;i&gt;Mac N&#39; Cheese&lt;/i&gt;
 and &lt;i&gt;hot dogs&lt;/i&gt;. Committing once a week for the rest of my life to cook a meal
 is noble but what happens when I miss a week? Or my motivation wanes? Building
@@ -102,9 +103,6 @@ request&lt;/a&gt;, I&#39;ll try to link to the markdown file on every post. Or e
 &lt;a href=&quot;mailto:suggestions@onemonthof.com&quot;&gt;suggestions@onemonthof.com&lt;/a&gt;.
 Thanks for making it this far in my post, hopefully through this I will learn to
 be a more engaging and less boring writer!
-
-
-
 &lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 20 Dec 2014 06:16:00 -0800</pubDate>
