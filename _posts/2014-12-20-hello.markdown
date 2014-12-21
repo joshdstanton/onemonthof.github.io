@@ -7,19 +7,21 @@ author:     "Jonathan Stanton"
 header-img: "img/post-bg-01.jpg"
 ---
 
-<p><strong>tl;dr</strong>. I am not good at committing to projects long term and
+<h1>TL;DR</h1>
+<p>I'm not good at committing to projects long term and
 find it disheartening when I set out to achieve a goal and loose motivation half
 way through. Yet I have a very adventurous and persistent personality that
-drives me to think big and want more for myself. Something I think is not unique
-to myself but stops a lot of people from doing more. I think I have come up with
-middle ground that I am happy to try. This lead me to making a blog where I am
-going to test out my theory. This is in of itself one of my 'think big' moments.
+drives me to think big and want more for myself. This is something I think is
+not unique to myself and stops a lot of people from doing more with their time.
+I have come up with middle ground that I am happy to test. This lead me to
+making a blog where I am going to test out my theory. This is in of itself one
+of my 'think big' moments.
 
 <p>I have decided that committing to large unbound challenges has in the past
 turn into a motivation problem if I wasn't able to execute the way I had
-imagined. <strong>The solution wasn't to stop thinking big or to take on fewer
+imagined. <strong>My solution isn't to stop thinking big or to take on fewer
 challenges but instead to commit to challenges of any size with an end date date
-in mind and one where I could measure the success of the challenge.</strong>
+in mind and one that I can measure the success of the challenge.</strong>
 
 <p>Caveat for the skeptics: This is not to say that all things in life should
 have an out in mind. There are times in life where doing something without an
@@ -46,41 +48,51 @@ could be a breakthrough in something I might actually find enjoyable.
 
 <hr>
 
-<p>This leads me to my one-a-month challenges. I am going to attempt to learn or
-do something different once a month for one year. Each month will have it's own
-guidelines that are unique to the challenge. I will post at minimum ① what I am
-attempting to do, ② how long the it will take (should be just a month but who
-knows), ③ how often I plan on doing said challenge, ④ how I plan on measuring
-the success and ⑤ any guidelines that apply to that month's challenge.
+<p>This leads me to my <i>one month of</i> challenges. I am going to attempt to
+learn or do something different once a month for one year. Each month will have
+it's own guidelines that are unique to the challenge. I will post at minimum
+&#x2460; what I am attempting to do, &#x2461; how long the it will take (should
+be just a month but who knows), &#x2462; how often I plan on doing said
+challenge, &#x2463; how I plan on measuring the success and &#x2464; any
+guidelines that apply to that month's challenge.
 
-<p>Some examples of things that I would like to see myself do. Cooking, art,
+<p>Some examples of things that I could see myself doing are: cooking, art,
 music, geography, contributing to open source projects, writing, language
 studies, math, computer science etc...
 
 <p>Basically a lot of what I learned as an elementary student that I didn't find
 terribly interesting then but now I want to explore more deeply to give myself a
-more well rounded view of people, culture, and myself.
+more well rounded view of others and myself.
 
 <hr>
 
 <p>The outline:
+<dl>
+  <dt>Challenge:</dt>
+  <dd>Pick a subject of learning that I am currently lacking and dive into it for an entire month.</dd>
 
-<p><strong>Challenge:</strong> Pick a subject of learning that I am currently
-lacking and dive into it for an entire month.
-<p><strong>Duration:</strong> 1 year.
-<p><strong>Frequency:</strong> Once a month.
-<p><strong>Measure of Success:</strong> If after a year I have completed at
-least 12 challenges, making at least 1 blog post per month at the beginning of
-the challenge outlining the task and 1 blog post at the end of the challenge
-with a post-mortem and any number of blog posts in the middle with updates. That
-will be a success. Anything less is a failure, but that's something that I can
-live with!
-<p><strong>Additional guidelines:</strong> This should be fun. I'd hate to push
-myself for a year and regret doing it. I should also be flexible and open to
-adjusting my premise and rules. If it doesn't look like I can do a month due to
-my circumstances I wont feel guilty for skipping or stopping or if it looks like
-I was wrong and my motivations were more than I've outlined I should be willing
-to re-evaluate.
+  <dt>Duration:</dt>
+  <dd>1 year.</dd>
+
+  <dt>Frequency:</dt>
+  <dd>Once a month.</dd>
+
+  <dt>Measure of Success:</dt>
+  <dd>If after a year I have completed at
+  least 12 challenges, making at least 1 blog post per month at the beginning of
+  the challenge outlining the task and 1 blog post at the end of the challenge
+  with a post-mortem and any number of blog posts in the middle with updates. That
+  will be a success. Anything less is a failure, but that's something that I can
+  live with!</dd>
+
+  <dt>Additional guidelines:</dt>
+  <dd>This should be fun. I'd hate to push
+  myself for a year and regret doing it. I should also be flexible and open to
+  adjusting my premise and rules. If it doesn't look like I can do a month due to
+  my circumstances I wont feel guilty for skipping or stopping or if it looks like
+  I was wrong and my motivations were more than I've outlined I should be willing
+  to re-evaluate.</dd>
+</dl>
 
 <p>Well that's about it. If you see any typo's or bad grammar submit a
 <a href="https://github.com/onemonthof/onemonthof.github.io/pulls">pull
