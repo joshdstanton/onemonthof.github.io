@@ -206,6 +206,10 @@ hr.small {
     font-size: 30px;
   }
 }
+.signature {
+  font-size: 85%;
+  color: #797979;
+}
 .post-preview > a {
   color: #404040;
 }
