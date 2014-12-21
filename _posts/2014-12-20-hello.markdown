@@ -66,11 +66,9 @@ more well rounded view of others and myself.
 
 <hr>
 
-<p>The outline:
+<h1>Challenge #1</h1>
+<p>Pick a subject of learning or an area I feel I am weak and dive into it.</p>
 <dl>
-  <dt>Challenge:</dt>
-  <dd>Pick a subject of learning that I am currently lacking and dive into it for an entire month.</dd>
-
   <dt>Duration:</dt>
   <dd>1 year.</dd>
 
