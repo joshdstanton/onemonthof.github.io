@@ -1,0 +1,43 @@
+---
+layout:     post
+title:      "Cooking"
+subtitle:   "From Mac N' Cheese To Filet Mignon"
+date:       2014-12-21 00:16:00
+author:     "Jonathan Stanton"
+header-img: "img/cooking-bg-01.jpg"
+---
+
+<h1>One Month Of Cooking</h1>
+<p>It's no secret that my wife does all the cooking in the house and there is a
+reason for it too. The range of foods that I know how to prepare is embarrassing!
+But I mean, it's just following directions right? How hard can that be?!
+<blockquote>
+  <a href="{{ site.baseurl }}/img/calvin-hobbes-allergic-food.jpg">
+    <img src="{{ site.baseurl }}/img/calvin-hobbes-allergic-food.jpg" alt="This food is allergic to me.">
+    For clarity I'm the chef in this comic.
+  </a>
+</blockquote>
+
+<h1>Challenge #2</h1>
+<p>Learn to cook a decent meal!</p>
+<dl>
+  <dt>Duration:</dt>
+  <dd>1 month.</dd>
+
+  <dt>Frequency:</dt>
+  <dd>Once a week.</dd>
+
+  <dt>Measure of Success:</dt>
+  <dd>If after a month I still have a job as father and husband I think that's a
+  good start. Though I would hope that I will learn something about cooking
+  along the way. I know I will have succeeded if I have at least 2 to 4 more
+  <i>go to</i> recipes that don't involve the majority of the ingredients
+  coming from a box. One night a week I plan on cooking an entire meal for my
+  wife and kids, as much from scratch as I can manage. This will not only be fun
+  for me but this will hopefully give my wife a night off too!
+
+  <dt>Additional guidelines:</dt>
+  <dd>I'll post pictures / recipes of the meals I prepare with honest feedback
+  from whoever is brave enough to eat whatever I cook! Pretty excited! Merry
+  Christmas!
+</dl>
