@@ -95,10 +95,3 @@ more well rounded view of others and myself.
   I was wrong and my motivations were more than I've outlined I should be willing
   to re-evaluate.</dd>
 </dl>
-
-<p>Well that's about it. If you see any typo's or bad grammar submit a
-<a href="https://github.com/onemonthof/onemonthof.github.io/pulls">pull
-request</a>, I'll try to link to the markdown file on every post. Or email
-<a href="mailto:suggestions@onemonthof.com">suggestions@onemonthof.com</a>.
-Thanks for making it this far in my post, hopefully through this I will learn to
-be a more engaging and less boring writer!
