@@ -1,0 +1,21 @@
+---
+layout:     post
+title:      "Cooking, Part 2"
+subtitle:   "Beef Amazington!"
+date:       2015-01-03 12:47:00
+author:     "Jonathan Stanton"
+header-img: "img/cooking-bg-01.jpg"
+---
+
+<h1>Beef Wellington</h1>
+<p>I followed Gordan Ramsey's holiday beef wellington recipe and wow it was to
+die for. 2lb beef tenderloin seared and then smothered in whole grain mustard
+then wrapped in duxelles and 24 month aged prosciutto di Parma. Finally wrapped
+with a pastry and baked until golden brown. Paired with red wine, mashed
+potatoes and asparagus (not shown).</p>
+<p>The day started off with a wonderful trip to Pike's Place Market, and
+finished with a very stressful time cooking this amazing meal. Lessons learned,
+good ingredients are expensive, improve is necessary when you don't have paid
+kitchen staff to prep all the ingredients for you perfectly, and sometimes
+seasoning beyond the point of comfort produces some amazing results.</p>
+<iframe class="imgur-album" width="100%" height="550" frameborder="0" src="//imgur.com/a/H9DND/embed?background=f2f2f2&text=1a1a1a&link=4e76c9"></iframe>
